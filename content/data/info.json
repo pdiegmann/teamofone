@@ -1,10 +1,10 @@
 {
-  "description": "<p></p>",
+  "description": "<p>\"Team of One\" – exploring how best practices for teams can be applied for self-organized individuals.</p>",
   "cta": "<p></p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "mail@thetoo.org",
+    "twitter_handle": "",
+    "github_handle": ""
   },
   "background_color": "#B1BCBC"
 }
